@@ -1,0 +1,1 @@
+42BCN{http://cybersec.42madrid.com:3318/admin/flag.txt}

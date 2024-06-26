@@ -1,0 +1,6 @@
+RUTA:http://cybersec.42madrid.com:3320/
+
+user:'--
+password:'--
+
+FLAG: 42BCN{welcomeHackerto42}
